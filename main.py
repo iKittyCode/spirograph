@@ -12,5 +12,5 @@ try:
     sleep(5)
     turtle.hideturtle()
 except KeyboardInterrupt:
-    print("exiting program")
+    print("exiting spiral program")
     exit()
