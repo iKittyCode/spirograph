@@ -12,4 +12,5 @@ try:
     sleep(5)
     turtle.hideturtle()
 except KeyboardInterrupt:
+    print("exiting")
     exit()
